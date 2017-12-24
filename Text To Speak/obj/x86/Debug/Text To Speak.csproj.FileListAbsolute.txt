@@ -1,0 +1,9 @@
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\bin\Debug\Text To Speak.exe
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\bin\Debug\Text To Speak.pdb
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\obj\x86\Debug\Text_To_Speak.Form1.resources
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\obj\x86\Debug\Text_To_Speak.Properties.Resources.resources
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\obj\x86\Debug\Text To Speak.csproj.GenerateResource.Cache
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\obj\x86\Debug\Text To Speak.csproj.CoreCompileInputs.cache
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\obj\x86\Debug\Text To Speak.exe
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\obj\x86\Debug\Text To Speak.pdb
+C:\Users\SamedDemir\Desktop\Text To Speak\Text To Speak\obj\x86\Debug\Text To Speak.csprojResolveAssemblyReference.cache
